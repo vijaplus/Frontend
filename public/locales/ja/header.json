@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "investors": "投資家",
+    "startups": "スタートアップ",
+    "messaging": "メッセージング",
+    "notifications": "通知"
+  },
+  "search":{
+    "input": "検索",
+    "history": "検索履歴"
+  },
+  "login": "ログイン",
+  "register": "登録",
+  "language": "JA"
+}

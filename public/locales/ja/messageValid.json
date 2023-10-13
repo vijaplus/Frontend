@@ -1,0 +1,37 @@
+{
+  "email": "メール",
+  "placeholder_email": " メールアドレスを入力してください",
+  "invalid_email_format": "メールアドレスの形式が不正です",
+  "email_cannot_be_empty": "メールアドレスは空欄にできません",
+
+  "password":"パスワード",
+  "placeholder_password": "パスワードを入力してください",
+  "re_enter_password":"パスワードを再入力してください",
+  "password_new":"新しいパスワード",
+  "password_cannot_be_empty": "パスワードは空欄にできません",
+  "password_not_match": "Passwords do not match",
+
+  "name": "Name",
+  "placeholder_name": "Enter name",
+  "name_cannot_be_empty": "Name cannot be empty",
+
+  "company_name": "Company Name",
+  "placeholder_company_name": "Enter company name",
+  "company_name_cannot_be_empty": "company name cannot be empty",
+
+  "company_type": "Company Type",
+  "placeholder_company_type": "Enter company type",
+  "company_type_cannot_be_empty": "company type cannot be empty",
+
+  "phone": "Phone Number",
+  "placeholder_phone": "Enter phone number",
+  "invalid_phone_format": "Invalid phone format",
+  "phone_cannot_be_empty": "Phone cannot be empty",
+  
+  "max_30":"最大 30 文字",
+
+  "min_6": "6 文字以上",
+
+  "placeholder_otp": "Enter OTP",
+  "otp_cannot_be_empty": "OTP cannot be empty"
+}

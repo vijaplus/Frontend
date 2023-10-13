@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "investors": "Investors",
+    "startups": "Startups",
+    "messaging": "Messaging",
+    "notifications": "Notifications"
+  },
+  "search":{
+    "input": "Search",
+    "history": "Search history"
+  },
+  "login": "Login",
+  "register": "Register",
+  "language": "EN"
+}

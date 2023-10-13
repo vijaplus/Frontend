@@ -1,0 +1,8 @@
+{
+  "title":"Authentication",
+  "reSendOTP": "Resend OTP",
+  "sentOTP": "The OTP has been sent",
+  "confirm": "Confirm",
+  "enterOtp": "Enter OTP",
+  "sendAgainLater": "Send again later"
+}

@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "investors": "Nhà đầu tư",
+    "startups": "Khởi nghiệp",
+    "messaging": "Nhắn tin",
+    "notifications": "Thông báo"
+  },
+  "search":{
+    "input": "Tìm kiếm",
+    "history": "Lịch sử tìm kiếm"
+  },
+  "login": "Đăng nhập",
+  "register": "Đăng ký",
+  "language": "VI"
+}

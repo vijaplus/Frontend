@@ -1,0 +1,42 @@
+{
+  "email": "E-mail",
+  "placeholder_email": "Enter email",
+  "invalid_email_format": "Invalid email format",
+  "email_cannot_be_empty": "Email cannot be empty",
+
+  "password":"Password",
+  "placeholder_password": "Enter password",
+  "re_enter_password":"Re-enter Password",
+  "password_new":"New Password",
+  "password_cannot_be_empty": "Password cannot be empty",
+  "password_not_match": "Passwords do not match",
+
+  "name": "Name",
+  "placeholder_name": "Enter name",
+  "name_cannot_be_empty": "Name cannot be empty",
+
+  "company_name": "Company Name",
+  "placeholder_company_name": "Enter company name",
+  "company_name_cannot_be_empty": "Company name cannot be empty",
+
+  "company_type": "Company Type",
+  "placeholder_company_type": "Enter company type",
+  "company_type_cannot_be_empty": "Company type cannot be empty",
+
+  "business_type": "Business Type",
+  "placeholder_business_type": "Enter business type",
+  "business_type_cannot_be_empty": "Business type cannot be empty",
+
+  "phone": "Phone Number",
+  "placeholder_phone": "Enter phone number",
+  "invalid_phone_format": "Invalid phone format",
+  "phone_cannot_be_empty": "Phone cannot be empty",
+
+  "max_30":"Maximum of 30 characters",
+
+  "min_6": "Minimum of 6 characters",
+
+  "placeholder_otp": "Enter OTP",
+  "otp_cannot_be_empty": "OTP cannot be empty"
+
+}

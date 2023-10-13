@@ -1,0 +1,18 @@
+{
+  "incorrect_password": "Incorrect password",
+  "fail": "Fail",
+  "success": "Success",
+
+  "incorrect_email": "Incorrect email",
+  "email_already_exists": "Email already exists",
+  "email_not_exists": "Email does not exist!",
+  "invalid_email_format": "Invalid email format",
+  
+  "phone_already_exists": "Phone already exists",
+  "invalid_phone_format": "Invalid phone format",
+
+  "otp_resent_1": "OTP will be resent in 1 minute",
+  "otp_sent": "OTP has been sent",
+  "invalid_otp": "Invalid OTP",
+  "otp_expired": "OTP has expired, please resend"
+}

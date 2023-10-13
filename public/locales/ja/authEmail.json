@@ -1,0 +1,8 @@
+{
+  "title":"認証",
+  "reSendOTP": "OTPを再送信する",
+  "sentOTP": "The OTP has been sent",
+  "confirm": "Confirm",
+  "enterOtp": "Enter OTP",
+  "sendAgainLater": "Send again later"
+}

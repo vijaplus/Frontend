@@ -1,0 +1,37 @@
+{
+  "email": "E-mail",
+  "placeholder_email": "Nhập email",
+  "invalid_email_format": "Email không đúng định dạng",
+  "email_cannot_be_empty": "Email không được để trống",
+
+  "password":"Mật khẩu",
+  "placeholder_password": "Nhập mật khẩu",
+  "re_enter_password":"Nhập lại mật khẩu",
+  "password_new":"Mật khẩu mới",
+  "password_cannot_be_empty": "Mật khẩu không được để trống",
+  "password_not_match": "Mật khẩu không khớp",
+
+  "name": "Name",
+  "placeholder_name": "Enter name",
+  "name_cannot_be_empty": "Name cannot be empty",
+
+  "company_name": "Company Name",
+  "placeholder_company_name": "Enter company name",
+  "company_name_cannot_be_empty": "company name cannot be empty",
+
+  "company_type": "Company Type",
+  "placeholder_company_type": "Enter company type",
+  "company_type_cannot_be_empty": "company type cannot be empty",
+
+  "phone": "Phone Number",
+  "placeholder_phone": "Enter phone number",
+  "invalid_phone_format": "Invalid phone format",
+  "phone_cannot_be_empty": "Phone cannot be empty",
+  
+  "max_30":"Tối đa 30 ký tự",
+
+  "min_6": "Tối thiếu 6 ký tự",
+
+  "placeholder_otp": "Enter OTP",
+  "otp_cannot_be_empty": "OTP cannot be empty"
+}
